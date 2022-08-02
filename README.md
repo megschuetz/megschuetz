@@ -14,8 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/megan-schuetz/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
-  <a href="mschuetz411@gmail.com"><img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
