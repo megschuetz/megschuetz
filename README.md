@@ -7,7 +7,7 @@
 
 - 🌻 Interests include: Reading📚, Skiing🎿, Camping⛺️, Hiking🌲, Dining Out🍴
 
-- 🌱 I'm currently teaching myself:  Tennis🎾 & Golf🏌🏼‍♀️
+- 🌱 I'm currently improving at:  Tennis🎾 & Golf🏌🏼‍♀️
 
 - 📫 How to reach me: **mschuetz411@gmail.com**
 
