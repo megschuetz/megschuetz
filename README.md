@@ -3,7 +3,7 @@
 
 ## About Me
 
-- Hello! My name is Megan Schuetz. I'm currently a Software Engineering Intern at Engage Mobilize. I am gaining experience navigating a complex code base, solving challenging issues in Angular and working collaboratively with the engineering and product teams. In a previous life as a Marketing Coordinator, I was intrigued by WordPress and became curious about tech field. Fast forward just one year, and thanks to the Front End Engineering program at Turing School of Software and Design I was able to begin learning to code and make a career change into developement. I'm excited to continue in this career with daily problem solving, ongoing learning and the reward of seeing an application evolve through the power of development.   
+- Hello! My name is Megan Schuetz. I'm currently a Software Engineering Intern at Engage Mobilize. I am gaining experience navigating a complex code base, solving challenging issues in Angular and working collaboratively with the engineering and product teams. In a previous life as a Marketing Coordinator, I was intrigued by WordPress and became curious about the tech field. Fast forward just one year, and thanks to the Front End Engineering program at Turing School of Software and Design I was able to begin learning to code and make a career change into developement. I'm excited to continue in this career with daily problem solving, ongoing learning and the reward of seeing an application evolve through the power of development.   
 
 
 - 🌻 Interests include: Reading📚, Skiing🎿, Camping⛺️, Hiking🌲, Dining Out🍴
