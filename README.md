@@ -1,5 +1,5 @@
 <h1 align="center">Megan Schuetz</h1>
-<h3 align="center">Front End Web Developer at Turing School of Software and Design</h3>
+<h3 align="center">Software Engineer and Noodle Connoisseur</h3>
 
 ## About Me
 
